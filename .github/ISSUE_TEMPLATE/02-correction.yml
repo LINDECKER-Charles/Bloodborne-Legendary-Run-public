@@ -2,6 +2,9 @@ name: Demander une correction
 description: Signaler une erreur dans une fiche, un objectif ou la documentation.
 labels: [documentation]
 body:
+  - type: markdown
+    attributes:
+      value: "[English form](https://github.com/LINDECKER-Charles/Bloodborne-Legendary-Run-public/issues/new?template=05-correction-en.yml)"
   - type: input
     id: location
     attributes:

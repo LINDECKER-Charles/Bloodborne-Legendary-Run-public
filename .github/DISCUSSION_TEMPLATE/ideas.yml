@@ -2,12 +2,12 @@ body:
   - type: textarea
     id: idea
     attributes:
-      label: Idée à discuter
-      description: Expliquez la situation et ce que vous aimeriez améliorer.
+      label: Idée à discuter / Idea for discussion
+      description: Expliquez la situation et ce que vous aimeriez améliorer. / Describe the situation and what you’d like to improve.
     validations:
       required: true
   - type: textarea
     id: feedback
     attributes:
-      label: Retours recherchés
-      description: Quel point aimeriez-vous examiner avec la communauté ?
+      label: Retours recherchés / Feedback you’d like
+      description: Quel point aimeriez-vous examiner avec la communauté ? / What would you like to discuss with the community?

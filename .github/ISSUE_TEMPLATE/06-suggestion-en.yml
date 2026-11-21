@@ -1,0 +1,25 @@
+name: Suggest an improvement
+description: Make a specific request for the companion app or guide.
+labels: [enhancement]
+body:
+  - type: markdown
+    attributes:
+      value: "[Formulaire en français](https://github.com/LINDECKER-Charles/Bloodborne-Legendary-Run-public/issues/new?template=03-proposition.yml)"
+  - type: textarea
+    id: need
+    attributes:
+      label: What you’re trying to do
+      description: What are you trying to do, and in what situation?
+    validations:
+      required: true
+  - type: textarea
+    id: proposal
+    attributes:
+      label: Suggested improvement
+      description: Describe the behavior or outcome that would help.
+    validations:
+      required: true
+  - type: textarea
+    id: examples
+    attributes:
+      label: Example or context

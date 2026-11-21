@@ -1,5 +1,7 @@
 # Contribuer à Bloodborne Legendary Run
 
+**Français** · [English](en/CONTRIBUTING.md)
+
 Les retours en français et en anglais sont les bienvenus. Consultez les [issues existantes](https://github.com/LINDECKER-Charles/Bloodborne-Legendary-Run-public/issues?q=is%3Aissue) et les [discussions](https://github.com/LINDECKER-Charles/Bloodborne-Legendary-Run-public/discussions) avant d’ouvrir un sujet. Si un sujet correspond déjà à votre retour, ajoutez vos observations à la conversation.
 
 | Votre retour | Où le partager |

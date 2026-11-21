@@ -4,6 +4,9 @@ labels: [bug]
 body:
   - type: markdown
     attributes:
+      value: "[English form](https://github.com/LINDECKER-Charles/Bloodborne-Legendary-Run-public/issues/new?template=04-bug-en.yml)"
+  - type: markdown
+    attributes:
       value: Recherchez un ticket similaire. Masquez les données privées avant d’ajouter une capture.
   - type: dropdown
     id: platform

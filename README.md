@@ -1,5 +1,7 @@
 # Bloodborne Legendary Run
 
+**Français** · [English](docs/en/README.md)
+
 <picture>
   <source media="(max-width: 700px)" srcset="./assets/readme/banniere-mobile.jpg">
   <img src="./assets/readme/banniere.jpg" alt="Bloodborne Legendary Run. Chaque victoire allume une étoile.">
@@ -9,7 +11,7 @@
 
 Choisissez une galaxie, relevez ses défis au fil de votre partie et retrouvez les fiches du Guide du chasseur quand vous en avez besoin.
 
-**[Ouvrir le site officiel](https://bloodborne-legendary-run.com/fr)** · [Premiers pas](docs/premiers-pas.md) · [Contribuer](CONTRIBUTING.md)
+**[Ouvrir le site officiel](https://bloodborne-legendary-run.com/fr)** · [Premiers pas](docs/premiers-pas.md) · [Contribuer](.github/CONTRIBUTING.md)
 
 ## Préparer et suivre sa chasse
 
@@ -41,7 +43,7 @@ Les téléchargements officiels sont sur le site. Aucune version n’est actuell
 
 - [Signaler un bug, corriger une fiche ou proposer une amélioration](https://github.com/LINDECKER-Charles/Bloodborne-Legendary-Run-public/issues/new/choose).
 - [Poser une question, partager une run ou discuter d’une idée](https://github.com/LINDECKER-Charles/Bloodborne-Legendary-Run-public/discussions).
-- Consulter le [guide de contribution](CONTRIBUTING.md), le [code de conduite](CODE_OF_CONDUCT.md) ou le [support](SUPPORT.md).
+- Consulter le [guide de contribution](.github/CONTRIBUTING.md), le [code de conduite](.github/CODE_OF_CONDUCT.md) ou le [support](.github/SUPPORT.md).
 
 Bloodborne Legendary Run est un projet communautaire indépendant. Ce dépôt rassemble la documentation de distribution et les échanges GitHub. Le code de l’application est maintenu dans un dépôt distinct.
 

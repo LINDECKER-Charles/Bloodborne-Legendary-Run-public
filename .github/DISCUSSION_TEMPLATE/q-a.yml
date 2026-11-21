@@ -2,11 +2,11 @@ body:
   - type: textarea
     id: question
     attributes:
-      label: Votre question
-      description: Indiquez la partie du compagnon ou du guide concernée.
+      label: Votre question / Your question
+      description: Indiquez la partie du compagnon ou du guide concernée. / Tell us which part of the app or guide your question is about.
     validations:
       required: true
   - type: textarea
     id: tried
     attributes:
-      label: Ce que vous avez déjà essayé
+      label: Ce que vous avez déjà essayé / What you’ve tried

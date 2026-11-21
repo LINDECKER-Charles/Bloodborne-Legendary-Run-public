@@ -1,0 +1,49 @@
+name: Report a bug
+description: Report unexpected behavior on the website or in the app.
+labels: [bug]
+body:
+  - type: markdown
+    attributes:
+      value: "[Formulaire en français](https://github.com/LINDECKER-Charles/Bloodborne-Legendary-Run-public/issues/new?template=01-bug.yml)"
+  - type: markdown
+    attributes:
+      value: Check for an existing issue. Hide private information before attaching screenshots.
+  - type: dropdown
+    id: platform
+    attributes:
+      label: App platform
+      options:
+        - Website
+        - Windows app
+        - Android app
+        - Other
+    validations:
+      required: true
+  - type: input
+    id: environment
+    attributes:
+      label: Device, browser, and version
+      description: Include these details if you know them.
+  - type: textarea
+    id: steps
+    attributes:
+      label: Steps to reproduce
+      description: Tell us which page you were on and what you did.
+    validations:
+      required: true
+  - type: textarea
+    id: observed
+    attributes:
+      label: What happened
+    validations:
+      required: true
+  - type: textarea
+    id: expected
+    attributes:
+      label: What you expected
+    validations:
+      required: true
+  - type: textarea
+    id: attachments
+    attributes:
+      label: Screenshots or additional context

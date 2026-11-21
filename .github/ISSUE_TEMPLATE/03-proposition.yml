@@ -2,6 +2,9 @@ name: Proposer une amélioration
 description: Décrire une demande précise pour le compagnon ou le guide.
 labels: [enhancement]
 body:
+  - type: markdown
+    attributes:
+      value: "[English form](https://github.com/LINDECKER-Charles/Bloodborne-Legendary-Run-public/issues/new?template=06-suggestion-en.yml)"
   - type: textarea
     id: need
     attributes:

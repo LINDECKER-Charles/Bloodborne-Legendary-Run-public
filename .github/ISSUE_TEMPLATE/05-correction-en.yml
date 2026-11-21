@@ -1,0 +1,25 @@
+name: Request a correction
+description: Report an error in a guide entry, an objective, or the documentation.
+labels: [documentation]
+body:
+  - type: markdown
+    attributes:
+      value: "[Formulaire en français](https://github.com/LINDECKER-Charles/Bloodborne-Legendary-Run-public/issues/new?template=02-correction.yml)"
+  - type: input
+    id: location
+    attributes:
+      label: Affected entry, objective, or document
+      description: Include a link or the exact title.
+    validations:
+      required: true
+  - type: textarea
+    id: correction
+    attributes:
+      label: Error and suggested correction
+    validations:
+      required: true
+  - type: textarea
+    id: evidence
+    attributes:
+      label: Source or in-game observation
+      description: Include a reference or explain how you checked, if available.

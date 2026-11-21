@@ -1,5 +1,7 @@
 # Code de conduite
 
+**Français** · [English](en/CODE_OF_CONDUCT.md)
+
 Ces règles s’appliquent aux issues, discussions et commentaires de Bloodborne Legendary Run.
 
 - Accueillez les personnes quel que soit leur niveau de jeu. Discutez des retours et des idées avec respect.

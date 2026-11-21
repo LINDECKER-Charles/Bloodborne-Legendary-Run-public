@@ -1,11 +1,11 @@
 blank_issues_enabled: false
 contact_links:
-  - name: Poser une question
+  - name: Poser une question / Ask a question
     url: https://github.com/LINDECKER-Charles/Bloodborne-Legendary-Run-public/discussions/categories/q-a
-    about: Demander de l’aide sur l’application ou le guide.
-  - name: Discuter avec la communauté
+    about: Demander de l’aide sur l’application ou le guide. / Get help with the app or guide.
+  - name: Discuter avec la communauté / Join the community
     url: https://github.com/LINDECKER-Charles/Bloodborne-Legendary-Run-public/discussions
-    about: Échanger sur une idée ou partager une run.
-  - name: Signaler une vulnérabilité en privé
-    url: https://github.com/LINDECKER-Charles/Bloodborne-Legendary-Run-public/blob/main/SECURITY.md
-    about: Trouver le contact de sécurité du projet.
+    about: Échanger sur une idée ou partager une run. / Discuss an idea or share a run.
+  - name: Signaler une faille / Report a vulnerability
+    url: https://github.com/LINDECKER-Charles/Bloodborne-Legendary-Run-public/blob/main/.github/SECURITY.md
+    about: Trouver le contact de sécurité privé. / Find the private security contact.

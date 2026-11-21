@@ -1,5 +1,7 @@
 # Premiers pas dans Bloodborne Legendary Run
 
+**Français** · [English](en/getting-started.md)
+
 ## Choisir son accès
 
 - **Web.** Ouvrez le [site officiel](https://bloodborne-legendary-run.com/fr) dans le navigateur. Le [Guide du chasseur](https://bloodborne-legendary-run.com/fr/gallery) est consultable sans compte.
@@ -17,4 +19,4 @@
 
 Ouvrez la fiche liée à un défi ou partez du [Guide du chasseur](https://bloodborne-legendary-run.com/fr/gallery). Les sections [Gemmes](https://bloodborne-legendary-run.com/fr/gallery/gemmes) et [Calices](https://bloodborne-legendary-run.com/fr/gallery/calices) sont accessibles directement. Certaines fiches dévoilent des boss, des quêtes ou des zones de fin de jeu.
 
-Un lien ne fonctionne pas ou une étape manque de clarté ? Consultez le [support](../SUPPORT.md).
+Un lien ne fonctionne pas ou une étape manque de clarté ? Consultez le [support](../.github/SUPPORT.md).
