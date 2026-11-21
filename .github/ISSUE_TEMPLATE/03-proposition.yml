@@ -1,0 +1,22 @@
+name: Proposer une amélioration
+description: Décrire une demande précise pour le compagnon ou le guide.
+labels: [enhancement]
+body:
+  - type: textarea
+    id: need
+    attributes:
+      label: Besoin
+      description: Que cherchez-vous à faire et dans quelle situation ?
+    validations:
+      required: true
+  - type: textarea
+    id: proposal
+    attributes:
+      label: Amélioration souhaitée
+      description: Décrivez le comportement ou le résultat qui vous aiderait.
+    validations:
+      required: true
+  - type: textarea
+    id: examples
+    attributes:
+      label: Exemple ou contexte

@@ -1,0 +1,12 @@
+body:
+  - type: textarea
+    id: question
+    attributes:
+      label: Votre question
+      description: Indiquez la partie du compagnon ou du guide concernée.
+    validations:
+      required: true
+  - type: textarea
+    id: tried
+    attributes:
+      label: Ce que vous avez déjà essayé

@@ -1,0 +1,22 @@
+name: Demander une correction
+description: Signaler une erreur dans une fiche, un objectif ou la documentation.
+labels: [documentation]
+body:
+  - type: input
+    id: location
+    attributes:
+      label: Fiche, objectif ou document concerné
+      description: Indiquez un lien ou le titre exact.
+    validations:
+      required: true
+  - type: textarea
+    id: correction
+    attributes:
+      label: Erreur et correction proposée
+    validations:
+      required: true
+  - type: textarea
+    id: evidence
+    attributes:
+      label: Source ou observation en jeu
+      description: Ajoutez une référence ou le contexte de votre vérification si vous en avez.

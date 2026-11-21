@@ -1,0 +1,46 @@
+name: Signaler un bug
+description: Décrire un comportement inattendu du site ou de l’application.
+labels: [bug]
+body:
+  - type: markdown
+    attributes:
+      value: Recherchez un ticket similaire. Masquez les données privées avant d’ajouter une capture.
+  - type: dropdown
+    id: platform
+    attributes:
+      label: Plateforme du compagnon
+      options:
+        - Site web
+        - Application Windows
+        - Application Android
+        - Autre
+    validations:
+      required: true
+  - type: input
+    id: environment
+    attributes:
+      label: Appareil, navigateur et version
+      description: Indiquez ces informations si vous les connaissez.
+  - type: textarea
+    id: steps
+    attributes:
+      label: Étapes pour reproduire
+      description: Indiquez la page et les actions effectuées.
+    validations:
+      required: true
+  - type: textarea
+    id: observed
+    attributes:
+      label: Résultat observé
+    validations:
+      required: true
+  - type: textarea
+    id: expected
+    attributes:
+      label: Résultat attendu
+    validations:
+      required: true
+  - type: textarea
+    id: attachments
+    attributes:
+      label: Captures ou contexte supplémentaire

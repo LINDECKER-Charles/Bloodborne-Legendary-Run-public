@@ -1,0 +1,13 @@
+body:
+  - type: textarea
+    id: idea
+    attributes:
+      label: Idée à discuter
+      description: Expliquez la situation et ce que vous aimeriez améliorer.
+    validations:
+      required: true
+  - type: textarea
+    id: feedback
+    attributes:
+      label: Retours recherchés
+      description: Quel point aimeriez-vous examiner avec la communauté ?
