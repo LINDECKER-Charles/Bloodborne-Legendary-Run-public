@@ -37,7 +37,7 @@ Choose a canvas, take on its challenges as you play, and look up entries in the 
 | Windows | [Download from the official site](https://bloodborne-legendary-run.com/en/download) |
 | Android | [Learn about the invite-only closed beta](https://bloodborne-legendary-run.com/en/beta) |
 
-Official downloads are available on the website. There are currently no [GitHub Releases](https://github.com/LINDECKER-Charles/Bloodborne-Legendary-Run-public/releases).
+Official downloads are available on the website. New versions are also published in [GitHub Releases](https://github.com/LINDECKER-Charles/Bloodborne-Legendary-Run-public/releases), with illustrated release notes and the Windows installer.
 
 ## Community
 

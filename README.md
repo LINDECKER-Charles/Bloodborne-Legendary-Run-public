@@ -37,7 +37,7 @@ Choisissez une galaxie, relevez ses défis au fil de votre partie et retrouvez l
 | Windows | [Télécharger depuis le site officiel](https://bloodborne-legendary-run.com/fr/download) |
 | Android | [Consulter la bêta fermée](https://bloodborne-legendary-run.com/fr/beta), accessible sur invitation |
 
-Les téléchargements officiels sont sur le site. Aucune version n’est actuellement publiée dans [GitHub Releases](https://github.com/LINDECKER-Charles/Bloodborne-Legendary-Run-public/releases).
+Les téléchargements officiels sont sur le site. Les nouvelles versions sont aussi publiées dans les [GitHub Releases](https://github.com/LINDECKER-Charles/Bloodborne-Legendary-Run-public/releases), avec leurs nouveautés illustrées et l’installeur Windows.
 
 ## Communauté
 
